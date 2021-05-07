@@ -1,0 +1,9 @@
+{
+  "compatibilityMode": false,
+  "productionMode": false,
+  "npmFolder": "D:\\ATTCS_GIT\\Testers",
+  "generatedFolder": "D:\\ATTCS_GIT\\Testers\\target\\frontend",
+  "frontendFolder": "D:\\ATTCS_GIT\\Testers\\frontend",
+  "pnpm.enable": false,
+  "require.home.node": false
+}
